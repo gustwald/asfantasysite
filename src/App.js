@@ -63,7 +63,7 @@ function App() {
       <header>
         <div className="headerLeft">
           <img className="logo" src={logo} alt="logo" />
-          <h1 className="logoText">Prisförändringar</h1>
+          {/* <h1 className="logoText">Prisförändringar</h1> */}
         </div>
         <div className="headerRight">
         <h1 className="time">{formattedTime && formattedTime}</h1>
