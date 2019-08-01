@@ -66,7 +66,7 @@ function App() {
           {/* <h1 className="logoText">Prisförändringar</h1> */}
         </div>
         <div className="headerRight">
-        <h1 className="time">{formattedTime && formattedTime}</h1>
+        <p className="time">{formattedTime && formattedTime}</p>
         </div>
       </header>
       <div className="container">
