@@ -22,7 +22,7 @@ function convertImg(team) {
       return "12";
     case "bk häcken":
       return "8";
-    case "Östersunds FK":
+    case "östersunds FK":
       return "14";
     case "if elfsborg":
       return "6";
