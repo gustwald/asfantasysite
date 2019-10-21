@@ -71,7 +71,7 @@ function App() {
       </header>
       <div className="container">
         <div className="playerContainer">
-          {incrementedPlayers && (
+          {incrementedPlayers && incrementedPlayers.length > 0 && (
             <div className="up">
               <span role="img" aria-label="arrow-upp" className="icon iconUp">
                 ⬆️
@@ -91,7 +91,7 @@ function App() {
                 ))}
             </div>
           )}
-          {decrementedPlayers && (
+          {decrementedPlayers && decrementedPlayers.length > 0 && (
             <div className="down">
               <span role="img" aria-label="arrow-upp" className="icon iconDown">
                 ⬇️
