@@ -26,7 +26,7 @@ function convertImg(team) {
       return "14";
     case "if elfsborg":
       return "6";
-    case "djurgårdens":
+    case "djurgården":
       return "9";
     case "mjällby aif":
       return "7";
