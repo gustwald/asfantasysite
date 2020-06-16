@@ -26,15 +26,15 @@ function convertImg(team) {
       return "14";
     case "if elfsborg":
       return "6";
-    case "djurgårdens if":
+    case "djurgårdens":
       return "9";
-    case "afc eskilstuna":
+    case "mjällby aif":
       return "7";
     case "falkenbergs ff":
       return "11";
     case "örebro sk":
       return "10";
-    case "gif sundsvall":
+    case "varbergs bois":
       return "15";
     case "helsingborgs if":
       return "1";
