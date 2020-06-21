@@ -16,7 +16,7 @@ function convertImg(team) {
       return "13";
     case "aik":
       return "16";
-    case "hammarby if":
+    case "hammarby":
       return "3";
     case "ifk norrköping":
       return "12";
